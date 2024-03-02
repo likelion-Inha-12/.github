@@ -11,7 +11,7 @@
 
 ### 🚀 Frontend
 
-|<img src="https://avatars.githubusercontent.com/u/110239629?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/116332741?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/121484561?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/117283341?s=96&v=4">|<img src="https://avatars.githubusercontent.com/u/129278491?s=96&v=4">|
+|<img src="https://avatars.githubusercontent.com/u/110239629?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/116332741?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/121484561?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/117283341?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/129278491?s=96&v=4" width="80">|
 |:---:|:---:|:---:|:---:|:---:|
 |[이상혁](https://github.com/lexxsh)|[오지환](https://github.com/returntoOZ)|[최주용](https://github.com/wuzoo)|[김나현](https://github.com/Nahyeonnnn)|[홍성준](https://github.com/Junepluson)|
 |FE-회장|FE-부회장|FE-FE장|FE-홍보|FE-홍보|
